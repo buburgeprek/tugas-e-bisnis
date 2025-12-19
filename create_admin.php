@@ -6,8 +6,8 @@ echo "<h2>Membuat Akun Admin</h2>";
 // Data admin
 $nama_admin = "Administrator ku";
 $email = "admin@gmail.com";
-$username = "adminku33";
-$password = "admin123456789"; 
+$username = "adminku";
+$password = "admin12345678"; 
 $role = "admin";
 
 // Hash password
